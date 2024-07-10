@@ -8,3 +8,5 @@ Browsing the web -> navigating in the source panel -> about.html ->  **notify_tr
 
 
 then decode into base64 
+
+Flag : `picoCTF{web_succ3ssfully_...}` 
