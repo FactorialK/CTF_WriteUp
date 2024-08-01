@@ -11,4 +11,4 @@ Unzip the **challenge.zip**, then you'll have a decrpt shell script, chekcum.txt
 3. ```sha256sum files/* | grep desired_sha256_value``` and you get the targeted file.
 4. using the provided decrypt script to gain  your flag.
 
-Flag : `picoCTF{trust_}` 
+Flag : `picoCTF{trust_...}` 
